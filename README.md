@@ -29,8 +29,8 @@ To get this project up and running, follow these steps:
 
 4. Access the web application at
     ```shell
-    GET http://127.0.0.1:8000/api/v1/files/
-    POST http://127.0.0.1:8000/api/v1/upload/ #You can attach any file
+    GET http://158.160.79.103:8000/api/v1/files/ # Get all objects
+    POST http://158.160.79.103:8000/api/v1/upload/ # Upload file (You can attach any file)
 
 ## Running Tests
 To run the tests, use the following command:
